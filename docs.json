@@ -1,12 +1,6 @@
 [
  {
   "section": "FPV RC Arena",
-  "path": "fpv-arena/station-one-pagers.pdf",
-  "title": "Station One-Pagers",
-  "blurb": "One diagram page per station type — start here"
- },
- {
-  "section": "FPV RC Arena",
   "path": "fpv-arena/build-plan-v1.pdf",
   "title": "Build Plan v1",
   "blurb": "Architecture, safety, RF, BOM, budget, compliance, prototype gate"
@@ -19,20 +13,8 @@
  },
  {
   "section": "FPV RC Arena",
-  "path": "fpv-rc-arena/station-one-pagers.pdf",
+  "path": "fpv-arena/station-one-pagers.pdf",
   "title": "Station One-Pagers",
-  "blurb": ""
- },
- {
-  "section": "FPV RC Arena",
-  "path": "fpv-rc-arena/build-plan-v1.pdf",
-  "title": "Build Plan v1",
-  "blurb": ""
- },
- {
-  "section": "FPV RC Arena",
-  "path": "fpv-rc-arena/dry-run-report.pdf",
-  "title": "Dry Run Report",
-  "blurb": ""
+  "blurb": "One diagram page per station type — start here"
  }
 ]
